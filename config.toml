@@ -60,7 +60,7 @@ enableGitInfo = false
   organizations = [ { name = "Royal College of Surgeons in Ireland (RCSI)", url = "https://www.rcsi.com/dublin/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "20110804100345_rsz_ra.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "rarnett@rcsi.ie"
